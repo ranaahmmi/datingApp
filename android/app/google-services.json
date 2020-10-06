@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371698692421",
+    "firebase_url": "https://genisis-dating.firebaseio.com",
+    "project_id": "genisis-dating",
+    "storage_bucket": "genisis-dating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371698692421:android:d16ce7418f8c06cb79ce2c",
+        "android_client_info": {
+          "package_name": "com.ranaahmmi.genisisdating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371698692421-ibn8u4vftd4fmcjbvgjbrlb585uret2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhcR-K3TnpMWNUr2u0Cy0XDvWlkDJW6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371698692421-ibn8u4vftd4fmcjbvgjbrlb585uret2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
